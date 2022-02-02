@@ -1,0 +1,62 @@
+.topBar-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+.logo{
+    font-size: 28px;
+    color: #ffffff;
+    width: 20%;
+}
+.logo h1 span{
+    color: var(--main-color) ;
+}
+.logo h2{
+    font-size: 23px;
+}
+.logo h2 span{
+    color: var(--main-color) ;
+}
+
+.searchbar{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 55%;
+}
+.searchbar input{
+    width: 50%;
+    border: 1px solid rgba(255,255,255,0.6);
+    padding: 10px;
+    border-radius: 5px;
+    background: #1D1E2C;
+    color: rgba(255,255,255,0.8);
+}
+.searchbar input::placeholder{
+    color: rgba(255,255,255,0.8);
+}
+.profile{
+    width: 25%;
+}
+.profile, .user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.user .user_information h2{
+    color: #ffffff;
+    font-size: 17px;
+}
+.user .user_information h3{
+    color: rgba(255,255,255,0.8);
+    font-size: 15px;
+}
+.user .user_image img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
