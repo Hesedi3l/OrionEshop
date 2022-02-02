@@ -1,5 +1,9 @@
 import React from 'react';
-import './TopBar.css'
+import './TopBar.scss'
+import { AiFillSetting } from "react-icons/ai";
+import {FaCentercode} from "react-icons/fa";
+
+
 function TopBar() {
     return (
         <>
@@ -14,14 +18,13 @@ function TopBar() {
                 <div className="profile">
                     <div className="user">
                         <div className="user_image">
-                            <img src={process.env.PUBLIC_URL + "panda.jpg"} alt="panda"/>
+                            <img src={process.env.PUBLIC_URL + "panda.png"} alt="panda"/>
                         </div>
                         <div className="user_information">
                             <h2>Mathieu Cara</h2>
                             <h3>Administrator</h3>
                         </div>
                     </div>
-                    {/*Mettre l'icon paramètres*/}
                 </div>
             </div>
         </>
