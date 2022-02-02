@@ -1,0 +1,27 @@
+.sideBar-container h2{
+    color: rgba(255,255,255,0.7);
+    font-size: 18px;
+    margin: 15px 0;
+}
+.sideBar-container ul{
+    margin-left: 10px;
+}
+.sideBar-container ul li{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: rgba(255,255,255,0.7);
+    margin: 10px 0;
+}
+.sideBar-container ul li .icon{
+    color: rgba(255,255,255,0.7);
+    background: rgba(255,255,255,0.2);
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.sideBar-container ul li .icon.active{
+    background: var(--main-color);
+    color: white;
+}
