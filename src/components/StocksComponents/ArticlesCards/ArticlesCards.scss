@@ -1,19 +1,23 @@
 .articles-cards{
-  width: 25%;
-  margin: 20px;
-  text-align: center;
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  padding: 35px 0;
+  width: 10%;
   border-radius: 5px;
-  border: 2px solid var(--main-color);
-  transition: all 0.5s ease;
-  &:hover{
-    background: var(--main-color);
+  margin: 20px;
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+  align-content: flex-start;
+  text-align: left;
+  flex-direction: column;
+  img{
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
   }
- h2{
-   font-size: 18px;
-   margin: 0;
- }
+  h4{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 5px;
+  }
 }

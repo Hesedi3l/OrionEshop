@@ -1,14 +1,14 @@
 import React from 'react'
 import './ArticlesCards.scss'
-import Categories from "../../../data/category.json";
-import {BiHash} from "react-icons/bi";
+import Articles from "../../../data/articles.json";
 
 function ArticlesCards() {
     return (
         <>
-            {Categories.map(post => {return(
+            {Articles.map(articles => {return(
               <div className="articles-cards">
-                  <h2>{post.title}</h2>
+                  <img src={process.env.PUBLIC_URL + "images/categories/" + articles.image} alt=""/>
+                  <h4>{articles.name}</h4>
               </div>
             )})}
         </>

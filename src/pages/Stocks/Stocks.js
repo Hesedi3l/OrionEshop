@@ -7,7 +7,7 @@ function Stocks() {
     return (
         <>
            <div className="container-stocks">
-               <h2>Visualisation des <span>stocks</span></h2>
+               <h2>Visualisation des <span>articles</span></h2>
                <h3>Dernière actualisation : Mardi 13 novembre</h3>
                <div className="container-stocks-categories">
                    <ArticlesCards />
