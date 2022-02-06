@@ -1,14 +1,8 @@
 [
   {
-    "id": "100",
+    "id": "0",
     "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "refe": "19161561",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
@@ -16,15 +10,9 @@
     "image": "fruits/banane.jpg"
   },
   {
-    "id": "200",
+    "id": "0",
     "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
@@ -32,93 +20,59 @@
     "image": "fruits/pomme.jpg"
   },
   {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "id": "0",
+    "name": "Noix de coco",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
+    "image": "fruits/coco.jpg"
   },
   {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "id": "0",
+    "name": "Fraise",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },{
-  "id": "100",
-  "name": "Banane",
-  "ref": "19161561",
-  "variete": [
-    "Musa paradisiaca",
-    "Cavendish",
-    "Figue Pomme",
-    "Mysore"
-  ],
-  "fournisseur": "Amazon",
-  "categorie": "Fruit",
-  "prixUnitaire": "4.95",
-  "prixKilos": "8.40",
-  "image": "fruits/banane.jpg"
-},
+    "image": "fruits/fraise.jpg"
+  },
   {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "id": "0",
+    "name": "Groseille",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },{
-  "id": "100",
-  "name": "Banane",
-  "ref": "19161561",
-  "variete": [
-    "Musa paradisiaca",
-    "Cavendish",
-    "Figue Pomme",
-    "Mysore"
-  ],
-  "fournisseur": "Amazon",
-  "categorie": "Fruit",
-  "prixUnitaire": "4.95",
-  "prixKilos": "8.40",
-  "image": "fruits/banane.jpg"
-},
+    "image": "fruits/groseille.jpg"
+  },
   {
-    "id": "200",
+    "id": "0",
+    "name": "Mangue",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/mangue.jpg"
+  },
+  {
+    "id": "0",
+    "name": "Poire",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/pears.jpg"
+  },
+  {
+    "id": "0",
     "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
@@ -126,31 +80,49 @@
     "image": "fruits/pomme.jpg"
   },
   {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "id": "0",
+    "name": "Noix de coco",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
+    "image": "fruits/coco.jpg"
   },
   {
-    "id": "200",
+    "id": "0",
+    "name": "Fraise",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/fraise.jpg"
+  },
+  {
+    "id": "0",
+    "name": "Groseille",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/groseille.jpg"
+  },
+  {
+    "id": "0",
+    "name": "Mangue",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/mangue.jpg"
+  },
+  {
+    "id": "0",
     "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
@@ -158,31 +130,49 @@
     "image": "fruits/pomme.jpg"
   },
   {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "id": "0",
+    "name": "Noix de coco",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
+    "image": "fruits/coco.jpg"
   },
   {
-    "id": "200",
+    "id": "0",
+    "name": "Fraise",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/fraise.jpg"
+  },
+  {
+    "id": "0",
+    "name": "Groseille",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/groseille.jpg"
+  },
+  {
+    "id": "0",
+    "name": "Mangue",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/mangue.jpg"
+  },
+  {
+    "id": "0",
     "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
@@ -190,31 +180,49 @@
     "image": "fruits/pomme.jpg"
   },
   {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "id": "0",
+    "name": "Noix de coco",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
+    "image": "fruits/coco.jpg"
   },
   {
-    "id": "200",
+    "id": "0",
+    "name": "Fraise",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/fraise.jpg"
+  },
+  {
+    "id": "0",
+    "name": "Groseille",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/groseille.jpg"
+  },
+  {
+    "id": "0",
+    "name": "Mangue",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/mangue.jpg"
+  },
+  {
+    "id": "0",
     "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
@@ -222,31 +230,49 @@
     "image": "fruits/pomme.jpg"
   },
   {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "id": "0",
+    "name": "Noix de coco",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
+    "image": "fruits/coco.jpg"
   },
   {
-    "id": "200",
+    "id": "0",
+    "name": "Fraise",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/fraise.jpg"
+  },
+  {
+    "id": "0",
+    "name": "Groseille",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/groseille.jpg"
+  },
+  {
+    "id": "0",
+    "name": "Mangue",
+    "refe": "8194814",
+    "fournisseur": "Amazon",
+    "categorie": "Fruit",
+    "prixUnitaire": "4.95",
+    "prixKilos": "8.40",
+    "image": "fruits/mangue.jpg"
+  },
+  {
+    "id": "0",
     "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
@@ -254,637 +280,73 @@
     "image": "fruits/pomme.jpg"
   },
   {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "id": "0",
+    "name": "Noix de coco",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
+    "image": "fruits/coco.jpg"
   },
   {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "id": "0",
+    "name": "Fraise",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },{
-  "id": "100",
-  "name": "Banane",
-  "ref": "19161561",
-  "variete": [
-    "Musa paradisiaca",
-    "Cavendish",
-    "Figue Pomme",
-    "Mysore"
-  ],
-  "fournisseur": "Amazon",
-  "categorie": "Fruit",
-  "prixUnitaire": "4.95",
-  "prixKilos": "8.40",
-  "image": "fruits/banane.jpg"
-},
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },{
-  "id": "100",
-  "name": "Banane",
-  "ref": "19161561",
-  "variete": [
-    "Musa paradisiaca",
-    "Cavendish",
-    "Figue Pomme",
-    "Mysore"
-  ],
-  "fournisseur": "Amazon",
-  "categorie": "Fruit",
-  "prixUnitaire": "4.95",
-  "prixKilos": "8.40",
-  "image": "fruits/banane.jpg"
-},
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
+    "image": "fruits/fraise.jpg"
   },
   {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "id": "0",
+    "name": "Groseille",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
+    "image": "fruits/groseille.jpg"
   },
   {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "id": "0",
+    "name": "Mangue",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
+    "image": "fruits/mangue.jpg"
   },
   {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "id": "0",
+    "name": "Mangue",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
+    "image": "fruits/mangue.jpg"
   },
   {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
+    "id": "0",
+    "name": "Mangue",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
+    "image": "fruits/mangue.jpg"
   },
   {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
+    "id": "0",
+    "name": "Mangue",
+    "refe": "8194814",
     "fournisseur": "Amazon",
     "categorie": "Fruit",
     "prixUnitaire": "4.95",
     "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },{
-  "id": "100",
-  "name": "Banane",
-  "ref": "19161561",
-  "variete": [
-    "Musa paradisiaca",
-    "Cavendish",
-    "Figue Pomme",
-    "Mysore"
-  ],
-  "fournisseur": "Amazon",
-  "categorie": "Fruit",
-  "prixUnitaire": "4.95",
-  "prixKilos": "8.40",
-  "image": "fruits/banane.jpg"
-},
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },{
-  "id": "100",
-  "name": "Banane",
-  "ref": "19161561",
-  "variete": [
-    "Musa paradisiaca",
-    "Cavendish",
-    "Figue Pomme",
-    "Mysore"
-  ],
-  "fournisseur": "Amazon",
-  "categorie": "Fruit",
-  "prixUnitaire": "4.95",
-  "prixKilos": "8.40",
-  "image": "fruits/banane.jpg"
-},
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },{
-  "id": "100",
-  "name": "Banane",
-  "ref": "19161561",
-  "variete": [
-    "Musa paradisiaca",
-    "Cavendish",
-    "Figue Pomme",
-    "Mysore"
-  ],
-  "fournisseur": "Amazon",
-  "categorie": "Fruit",
-  "prixUnitaire": "4.95",
-  "prixKilos": "8.40",
-  "image": "fruits/banane.jpg"
-},
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },{
-  "id": "100",
-  "name": "Banane",
-  "ref": "19161561",
-  "variete": [
-    "Musa paradisiaca",
-    "Cavendish",
-    "Figue Pomme",
-    "Mysore"
-  ],
-  "fournisseur": "Amazon",
-  "categorie": "Fruit",
-  "prixUnitaire": "4.95",
-  "prixKilos": "8.40",
-  "image": "fruits/banane.jpg"
-},
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
-  },
-  {
-    "id": "100",
-    "name": "Banane",
-    "ref": "19161561",
-    "variete": [
-      "Musa paradisiaca",
-      "Cavendish",
-      "Figue Pomme",
-      "Mysore"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/banane.jpg"
-  },
-  {
-    "id": "200",
-    "name": "Pomme",
-    "ref": "8194814",
-    "variete": [
-      "Boskoop",
-      "Braeburn",
-      "Granny-Smith",
-      "Pink Lady"
-    ],
-    "fournisseur": "Amazon",
-    "categorie": "Fruit",
-    "prixUnitaire": "4.95",
-    "prixKilos": "8.40",
-    "image": "fruits/pomme.jpg"
+    "image": "fruits/mangue.jpg"
   }
 ]

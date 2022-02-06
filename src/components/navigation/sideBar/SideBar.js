@@ -6,6 +6,7 @@ import {FiBox} from "react-icons/fi"
 import {GiKiwiFruit} from "react-icons/gi"
 import {BsBagPlus} from "react-icons/bs"
 import Categories from '../../../data/category.json'
+import {NavLink} from "react-router-dom";
 
 function SideBar() {
     return (
@@ -13,11 +14,11 @@ function SideBar() {
             <div className="sideBar-container">
                 <h2>Menu</h2>
                 <ul>
-                    <li><FaHouseUser className="icon active"/> Accueil</li>
-                    <li><BiStats className="icon"/> Statistiques</li>
-                    <li><FiBox className="icon"/> Stocks</li>
-                    <li><GiKiwiFruit className="icon"/> Articles</li>
-                    <li><BsBagPlus className="icon"/> Panier</li>
+                    <NavLink to="/" activeClassName='active'><li><FaHouseUser className="icon"/> Accueil</li></NavLink>
+                    <NavLink to="/stats" activeClassName='active'><li><BiStats className="icon"/> Statistiques</li></NavLink>
+                    <NavLink to="/stocks" activeClassName='active'><li><FiBox className="icon"/> Stocks</li></NavLink>
+                    <NavLink to="/articles" activeClassName='active'><li><GiKiwiFruit className="icon"/> Articles</li></NavLink>
+                    <NavLink to="/panier" activeClassName='active'><li><BsBagPlus className="icon"/> Panier</li></NavLink>
 
                 </ul>
                 <h2>Categories</h2>

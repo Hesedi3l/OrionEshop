@@ -1,17 +1,24 @@
 import React from 'react'
 import './ArticlesCards.scss'
-import Articles from "../../../data/articles.json";
+import { useState } from "react";
 
-function ArticlesCards() {
+function ArticlesCards(props) {
+
+    const [articlesClick, setArticlesClick] = useState(false);
+
     return (
-        <>
-            {Articles.map(articles => {return(
-              <div className="articles-cards">
-                  <img src={process.env.PUBLIC_URL + "images/categories/" + articles.image} alt=""/>
-                  <h4>{articles.name}</h4>
-              </div>
-            )})}
-        </>
+        <div
+            className={articlesClick ? "articles-cards active" : "articles-cards"}
+             onClick={()=> setArticlesClick(!articlesClick)}>
+            <img src={process.env.PUBLIC_URL + "images/categories/" + props.image} alt=""/>
+            <h4>{props.name}</h4>
+            <div className="description">
+                <p><span>Référence</span> :  {props.refe}</p>
+                <p><span>Fournisseur</span> :  {props.fournisseur}</p>
+                <p><span>Prix Unitaire</span> :  {props.prixUnitaire}</p>
+                <p><span>Prix Kilos</span> :  {props.prixKilos}</p>
+            </div>
+        </div>
     );
 }
 

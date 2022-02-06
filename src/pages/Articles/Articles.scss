@@ -1,0 +1,22 @@
+.container-stocks{
+  width: 100%;
+  h2{
+    font-size: 22px;
+    color: #ffffff;
+    span{
+      color: var(--main-color);
+    }
+  }
+  h3{
+    font-size: 15px;
+    color: rgba(255,255,255,0.7);
+  }
+  .container-stocks--content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 30px 0;
+  }
+}

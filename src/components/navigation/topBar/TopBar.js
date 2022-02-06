@@ -1,7 +1,5 @@
 import React from 'react';
 import './TopBar.scss'
-import { AiFillSetting } from "react-icons/ai";
-import {FaCentercode} from "react-icons/fa";
 
 
 function TopBar() {

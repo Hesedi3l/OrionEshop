@@ -17,16 +17,21 @@
                 border-radius: 5px;
                 margin-right: 10px;
             }
-            .icon.active{
-                background: var(--main-color);
-                color: white;
-            }
         }
+    }
+    .active li .icon{
+        background: var(--main-color);
+        color: white;
     }
     h2{
         color: rgba(255,255,255,0.8);
         font-size: 18px;
         margin: 15px 0;
         letter-spacing: 3px;
+    }
+}
+@media (max-width: 1260px) {
+    .sideBar-container{
+        display: none;
     }
 }
